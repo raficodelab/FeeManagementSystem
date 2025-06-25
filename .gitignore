@@ -1,0 +1,10 @@
+/build/
+*.class
+nbproject/
+*.form
+*.sql
+*.db
+*.bak
+.DS_Store
+Thumbs.db
+!*.java
